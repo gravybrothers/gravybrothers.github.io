@@ -194,8 +194,8 @@ h1 {
   font-family: "Custom", "CaviarDreams", Helvetica, Arial, sans-serif;
   //font-family: "Amatic SC", Helvetica, Arial, sans-serif;
   //font-family: "Quicksand", Helvetica, Arial, sans-serif;
-  margin-top: 0;
-  margin-bottom: .5rem;
+  margin-top: -.75rem;
+  margin-bottom: .8rem;
   font-weight: 300;
   line-height: 1.1;
   color: #0c0e63;
@@ -206,7 +206,11 @@ h1 {
     color: #95b1f9;
     text-decoration: none;
     border-top: none;
+  }
 }
+
+.tab {
+  margin-left: 70px;
 }
 
 h2 {
@@ -227,7 +231,7 @@ h3, h4, h5, h6 {
   margin-bottom: .5rem;
   font-weight: 300;
   line-height: 1.1;
-  color: #333;
+  color: #95b1f9;
   letter-spacing: -.025rem;
 }
 
