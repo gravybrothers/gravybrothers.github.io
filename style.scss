@@ -217,6 +217,7 @@ h2 {
   font-family: "Custom", "CaviarDreams", Helvetica, Arial, sans-serif;
   //font-family: "Amatic SC", Helvetica, Arial, sans-serif;
   //font-family: "Quicksand", Helvetica, Arial, sans-serif;
+  text-align: center;
   margin-top: 0;
   margin-bottom: .5rem;
   font-weight: 300;
@@ -253,6 +254,14 @@ h4, h5, h6 {
 
 p {
   margin: 0 0 1rem;
+}
+
+#center {
+  text-align: center;
+}
+
+#left {
+  text-align: left;
 }
 
 ul, ol, dl {
